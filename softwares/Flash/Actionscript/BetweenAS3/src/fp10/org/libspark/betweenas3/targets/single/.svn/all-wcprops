@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2470/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/single
+END
+CompositeSingleTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2285/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/single/CompositeSingleTweenTarget.as
+END
+AbstractSingleTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2285/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/single/AbstractSingleTweenTarget.as
+END
+ObjectTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2285/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/single/ObjectTweenTarget.as
+END
+ISingleTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2285/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/single/ISingleTweenTarget.as
+END
+SingleTweenTargetLadder.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2314/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/single/SingleTweenTargetLadder.as
+END

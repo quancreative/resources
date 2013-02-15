@@ -1,0 +1,66 @@
+8
+
+dir
+100
+svn://intranet.cortinaproductions.com/actionscript/trunk/com/as3dmod/plugins
+svn://intranet.cortinaproductions.com/actionscript
+
+
+
+2009-04-22T03:58:02.276751Z
+57
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+alternativa3d
+dir
+
+sandy3d
+dir
+
+away3d
+dir
+
+PluginFactory.as
+file
+
+
+
+
+2009-09-21T13:46:52.000000Z
+d546cb3fe41b714498a122904d96e81e
+2009-04-22T03:58:02.276751Z
+57
+paul
+has-props
+
+pv3d
+dir
+
+Library3d.as
+file
+
+
+
+
+2009-09-21T13:46:52.000000Z
+0514f34928f3b095bdba8caecf3b1e01
+2009-04-22T03:58:02.276751Z
+57
+paul
+has-props
+

@@ -1,0 +1,1 @@
+﻿package{			public class ExhibitionObject	{				public var types:String="";		public var id:String="";		public var filename:String="";		public var title:String="";		public var date:String="";		public var description:String="";		public var transcript:String="";		public var asset_details:String="";		public var exhibitions:String="";			}	}

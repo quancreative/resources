@@ -1,0 +1,52 @@
+8
+
+dir
+2525
+http://www.libspark.org/svn/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/tweens
+http://www.libspark.org/svn
+
+
+
+2009-04-16T11:26:28.195223Z
+2469
+yossy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7c0a6d06-9f08-4704-a8a8-7f8aea5d0da0
+
+TweensAllTests.as
+file
+
+
+
+
+2009-04-16T16:08:55.000000Z
+6e1b3cfbaeafed5acfce68e42c7d880b
+2009-02-15T19:41:54.532429Z
+2271
+yossy
+
+StandardTweenTest.as
+file
+
+
+
+
+2009-04-16T16:08:55.000000Z
+0910d229bb195c3a6e87a1e7bc76a937
+2009-04-16T11:26:28.195223Z
+2469
+yossy
+

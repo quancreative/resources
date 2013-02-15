@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2504/as3/BetweenAS3/trunk/tests/fp10
+END
+GlowFilterTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2317/as3/BetweenAS3/trunk/tests/fp10/GlowFilterTweenTest.as
+END
+EaseElasticTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseElasticTest.as
+END
+ReversedTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2290/as3/BetweenAS3/trunk/tests/fp10/ReversedTweenTest.as
+END
+TweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2289/as3/BetweenAS3/trunk/tests/fp10/TweenTest.as
+END
+EaseCubicTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseCubicTest.as
+END
+EaseExponentialTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseExponentialTest.as
+END
+ApplyTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2301/as3/BetweenAS3/trunk/tests/fp10/ApplyTest.as
+END
+RunTests.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2239/as3/BetweenAS3/trunk/tests/fp10/RunTests.as
+END
+FilterTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2317/as3/BetweenAS3/trunk/tests/fp10/FilterTweenTest.as
+END
+AllTests.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2239/as3/BetweenAS3/trunk/tests/fp10/AllTests.as
+END
+EaseSineTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseSineTest.as
+END
+PointTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2470/as3/BetweenAS3/trunk/tests/fp10/PointTweenTest.as
+END
+RepeatedTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2293/as3/BetweenAS3/trunk/tests/fp10/RepeatedTweenTest.as
+END
+EaseBackTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseBackTest.as
+END
+ScaledTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2299/as3/BetweenAS3/trunk/tests/fp10/ScaledTweenTest.as
+END
+ExtraRemoveFromParentTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2473/as3/BetweenAS3/trunk/tests/fp10/ExtraRemoveFromParentTest.as
+END
+ExtraFuncTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2504/as3/BetweenAS3/trunk/tests/fp10/ExtraFuncTest.as
+END
+ExtraAddChildTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2475/as3/BetweenAS3/trunk/tests/fp10/ExtraAddChildTest.as
+END
+EaseCircularTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseCircularTest.as
+END
+EaseQuarticTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseQuarticTest.as
+END
+SlicedTweenTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2300/as3/BetweenAS3/trunk/tests/fp10/SlicedTweenTest.as
+END
+EaseCustomTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseCustomTest.as
+END
+EaseBounceTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseBounceTest.as
+END
+EaseQuinticTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseQuinticTest.as
+END
+EaseQuadraticTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2468/as3/BetweenAS3/trunk/tests/fp10/EaseQuadraticTest.as
+END

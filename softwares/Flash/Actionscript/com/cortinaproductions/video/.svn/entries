@@ -1,0 +1,52 @@
+8
+
+dir
+100
+svn://intranet.cortinaproductions.com/actionscript/trunk/com/cortinaproductions/video
+svn://intranet.cortinaproductions.com/actionscript
+
+
+
+2009-07-27T16:05:14.320757Z
+87
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+VideoPlayer.as
+file
+
+
+
+
+2009-09-21T13:46:52.000000Z
+b2fdb14cdb3e217aa1be081e6efa1358
+2009-07-27T16:05:14.320757Z
+87
+paul
+
+VideoPlayerGUI.as
+file
+
+
+
+
+2009-09-21T13:46:52.000000Z
+04e458bbe753260f8f5d44c4b024a82e
+2009-07-10T17:28:01.260229Z
+83
+dominic
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.powerflasher.fdt.ui.editor.template.as3" deleted="false" description="create getter and setter methods" enabled="true" name="getter&amp;setter">public function get ${var}() : ${type}&#13;
+{&#13;
+	return _${var};&#13;
+}&#13;
+&#13;
+public function set ${var}(value : ${type}) : void&#13;
+{&#13;
+	_${var} = value;&#13;
+}</template></templates>

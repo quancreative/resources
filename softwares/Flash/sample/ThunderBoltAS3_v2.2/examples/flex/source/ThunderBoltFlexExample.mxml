@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+* Logging Flash, Flex or AIR projects based on AS3 using Firebug or ThunderBolt AS3 Console
+* 
+* @version	2.2
+* @date		02/19/09
+* 
+* @author	Jens Krause [www.websector.de]
+* 
+* @see		http://www.websector.de/blog/category/thunderbolt/
+* @see		http://code.google.com/p/flash-thunderbolt/
+* @source	http://flash-thunderbolt.googlecode.com/svn/trunk/as3/
+* 
+* ***********************
+* HAPPY LOGGING ;-)
+* ***********************
+* 
+
+-->
+<mx:Application 
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	initialize="initializeHandler()"
+	>
+
+	<mx:Script>
+        <![CDATA[
+        	import org.osflash.thunderbolt.Logger;
+
+            private function initializeHandler( ):void
+            {
+                // First of all show an information about ThunderBolt AS3
+                Logger.about();
+                // using ThunderBolt AS3 console or not
+                // Logger.console = true;
+            }
+                        
+            private function traceToFirebug(event:Event):void  
+            {
+				//
+				// Optionally you can hide the time stamp
+				// Logger.includeTime = false;
+
+				var myNumber: int = 5;
+				var myString: String = "Lorem ipsum";
+				var myObject: Object = {	exampleArray: ["firstValue", "secondValue"], 
+											y: 10, 
+											exampleString: "Hello", 
+											nestedObject: {	x: 100, 
+															y: 200}
+										};
+										
+										
+				var myArray: Array = [	"firstValue",
+										{	x: 100, 
+											y: 200}, 
+										"secondValue"	];
+				
+				var id: String = event.target.id;
+				
+				switch (id)
+				{
+					case "infoButton":
+						Logger.info("Flex is calling: A simple string", 
+									myString);
+						break;
+					case "warnButton":
+						Logger.warn ("Flex is calling: Two log objects: A number typed as int and a string", 
+										myNumber, 
+										myString);
+						break;
+					case "errorButton":
+						Logger.error ("Flex is calling: An array with a nested object: ", 
+										myArray);
+						break;
+					case "debugButton":
+						Logger.debug ("Flex is calling: An object with a nested object and nested array", 
+										myObject);
+						break;
+					case "memButton":
+						Logger.info( Logger.memorySnapshot() );
+						break;
+					default:
+						Logger.error( "Flex is calling: A button with an ID named " + id + " is not found");
+
+				}
+            }           
+		
+      ]]>
+    </mx:Script>
+    
+	<mx:Style 
+		source="logger.css"
+		/>
+	
+	<mx:VBox width="440"
+		>
+	
+	    <mx:HBox 
+	    	horizontalGap="10"
+	    	paddingBottom="20"
+	    	>
+	    	
+			 <mx:Button id="infoButton" 
+			 	width="80" height="40"
+			 	label="info" 
+				click="traceToFirebug(event);" 
+				/> 
+				
+			 <mx:Button id="warnButton" 
+			 	width="80" height="40"
+			 	label="warn" 
+				click="traceToFirebug(event);" 
+				/> 
+				
+			 <mx:Button id="errorButton" 
+			 	width="80" height="40"
+			 	label="error" 
+				click="traceToFirebug(event);" 
+				/> 
+				  	
+			 <mx:Button id="debugButton" 
+			 	width="80" height="40"
+			 	label="debug" 
+				click="traceToFirebug(event);" 
+				/>
+						
+			 <mx:Button id="memButton" 
+			 	width="80" height="40"
+			 	label="memory" 
+				click="traceToFirebug(event);" 
+				/>
+				
+	    </mx:HBox>
+	    
+	    <mx:HBox
+	    	horizontalGap="20"
+	    	>
+	    
+			<mx:CheckBox id="hideChB"
+				label="Stop Logging"
+				click="{ Logger.hide = event.target.selected }"
+				/>
+
+			<mx:CheckBox id="consoleChB"
+				label="ThunderBolt AS3 Console"
+				click="{ Logger.console = event.target.selected }"
+				/>
+					    	
+	    </mx:HBox>
+	</mx:VBox>
+		  
+</mx:Application>

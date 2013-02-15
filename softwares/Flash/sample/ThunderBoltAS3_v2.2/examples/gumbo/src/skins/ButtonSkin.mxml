@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+* ThunderBolt meets Gumbo ;)
+* 
+* @version	2.2
+* @date		03/08/09
+* 
+* @author	Jens Krause [www.websector.de]
+* 
+* @see		http://www.websector.de/blog/category/thunderbolt/
+* @see		http://code.google.com/p/flash-thunderbolt/
+* @source	http://flash-thunderbolt.googlecode.com/svn/trunk/as3/
+
+
+-->
+
+<Skin 
+ 	xmlns="http://ns.adobe.com/mxml/2009" 
+ 	resizeMode="scale"  	
+	>
+	
+	<Metadata>
+		[HostComponent("mx.components.FxButton")]
+	</Metadata>
+	  		
+    <states>   	
+        <State name="up" />
+        <State name="over" />
+        <State name="down" />
+        <State name="disabled" />
+	</states>
+	
+	<!-- background -->
+	<Rect id="bg" 
+		radiusX="4" radiusY="4" 
+		top="0" right="0" bottom="0" left="0"
+		>
+		<fill>
+			<LinearGradient 
+				x="0" y="0" 
+				rotation="90">
+				<GradientEntry 
+					color="#666666" 
+					color.over="#E3FF74"
+					color.down="#E3FF74"
+					ratio="0" 
+					/>
+				<GradientEntry 
+					color="#000000" 
+					color.over="#DCFF55"
+					color.down="#DCFF55"
+					ratio="1"
+					/> 
+			</LinearGradient>
+		</fill>
+	</Rect>
+	
+
+	<!-- highlight -->
+	<Rect
+		radiusX="4" radiusY="4"
+		top="2" left="2" right="2"
+		bottom="{ bg.height * .5 }"
+		>
+		<fill>
+			<LinearGradient 
+				x="0" y="0" 
+				rotation="90">
+				<GradientEntry 
+					color="#ffffff" 
+					ratio="0" 
+					alpha=".3"/>
+				<GradientEntry 
+					color="#ffffff" 
+					ratio="1" 
+					alpha=".1"/>
+			</LinearGradient>
+		</fill>
+	</Rect>
+
+	<!-- label -->
+	<TextBox id="label"
+			top="6" bottom="6" right="6" left="6"
+			fontFamily="Arial" fontSize="10"
+			color="#FFFFFF" color.over="#666666" color.down="#333333"
+			alpha="1" alpha.over=".85"
+			horizontalCenter="0" verticalCenter="1"
+			textAlign="center" verticalAlign="middle"
+			text="{ hostComponent.label.toUpperCase() }"
+			/>
+
+</Skin>

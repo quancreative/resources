@@ -1,0 +1,40 @@
+8
+
+dir
+100
+svn://intranet.cortinaproductions.com/actionscript/trunk/pdh/shell
+svn://intranet.cortinaproductions.com/actionscript
+
+
+
+2008-12-01T22:23:05.167979Z
+2
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+events
+dir
+
+section
+dir
+
+bubble
+dir
+
+modal
+dir
+

@@ -1,0 +1,2516 @@
+<?xml version="1.0"?>
+<WorkBook>
+
+
+ <Worksheet Name="Metadata">
+  <Table ExpandedColumnCount="27" ExpandedRowCount="108" FullColumns="1"
+   FullRows="1" StyleID="s39" DefaultColumnWidth="53.0"
+   DefaultRowHeight="12.0">
+   <Column StyleID="s39" Width="90.0"/>
+   <Column StyleID="s39" AutoFitWidth="0" Width="102.0" Span="1"/>
+   <Column Index="4" StyleID="s53" Width="276.0"/>
+   <Column StyleID="s53" Width="102.0"/>
+   <Column StyleID="s39" Width="252.0" Span="1"/>
+   <Column Index="8" StyleID="s39" AutoFitWidth="0" Width="237.0"/>
+   <Column StyleID="s39" Width="102.0"/>
+   <Column StyleID="s39" Width="42.0" Span="16"/>
+   <Column Index="27" StyleID="s39" Width="48.0"/>
+   <Row AutoFitHeight="0" Height="42.0">
+    <Cell StyleID="s33"><Data Type="String">types</Data></Cell>
+    <Cell StyleID="s33"><Data Type="String">id</Data></Cell>
+    <Cell StyleID="s33"><Data Type="String">filename</Data></Cell>
+    <Cell StyleID="s34"><Data Type="String">title</Data></Cell>
+    <Cell StyleID="s34"><Data Type="String">date</Data></Cell>
+    <Cell StyleID="s33"><Data Type="String">description</Data></Cell>
+    <Cell StyleID="s33"><Data Type="String">transcript</Data></Cell>
+    <Cell StyleID="s35"><Data Type="String">asset-details</Data></Cell>
+    <Cell StyleID="s35"><Data Type="String">exhibitions</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG001</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG001.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Berlin Guidebook</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1954</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Publication of the U.S. High Commissioner for Germany as a convenience for employees stationed in Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">berlin-divided-and-isolated</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG002</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG002.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Illustrated map of divided Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">July 1, 1950</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Pull-out map contained in the booklet: &quot;A Survey of Berlin, Office of the High Commissioner For Germany&quot;</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Gift of Chester E. Beaman</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">berlin-divided-and-isolated</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG003</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG003.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Emblem of the Stasi, the East German secret police force</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1950-1990</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The entrance sign of a local Office of the Federal Commissioner (BStU) of the former East German Stasi secret police is seen in Erfurt, central Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">berlin-divided-and-isolated</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG004</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG004.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">East Germans in West Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1950-1959</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German boys visting West Berlin do not want any record of their faces getting to East German police.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">National Archives and Records Administration</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">berlin-divided-and-isolated</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="126.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG005</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG005.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Porcelain replica of Berlin Freedom Bell</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">2001.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">This Meissen ware bell replicates the original Freedom Bell that New Yorker Walter Dorwin Teague designed in the late 1940s at the beginning of the Cold War.  The original 10-ton bell was a symbol of the U.S. campaign to open Europe through radio stations like Radio Free Europe.  In 1950, U.S. radio promoters installed the Bell in West Berlin, where its outline became the first logo for Radio Free Europe and its ring a symbol of freedom, broadcast daily at 6 p.m. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Gift of Governing Mayor of Berlin Eberhard Diepgen to U.S. Secretary of State Colin L. Powell.  (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">germany-divided</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG006</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG006.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Printing block with Radio Free Europe logo</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1950-1970</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The iconic shape of the Freedom Bell appears on this Radio Free Europe printer's block as the station's logo.  </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center  (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">germany-divided</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG007</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG007.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">East German flag</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1980-1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German flag flown over the U.S. embassy annex building in East Germany.  </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Gift of Patrick J. and Susan J. Harrington (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">germany-divided</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG008</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG008.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Military Situation at German Surrender</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1945.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Map of Germany and surrounding borders, showing zones of occupation at the end of World War II.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Department of State, Office of the Historian</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">germany-divided</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="165.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG009</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG009.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Potsdam Conference</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">July 1945</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Seated are (left to right): British Prime Minister Clement Atlee; U.S. President Harry Truman; and Soviet Premier Joseph Stalin.  Standing behind them are (left ot right): Fleet Admiral William D. Leahy, USN, Truman's Chief of Staff; British Foreign Minister Ernest Bevin; U.S. Secretary of State James F. Byrnes and Soviet Foreign Minister Vyacheslav Molotov.  The &quot;Big Three&quot; convened a conference in Potsdam, Germany, to determine punishment for the defeated Nazi regime, the establishment of post-war order and rebuilding Europe's ravaged societies. &#13;</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">National Archives and Records Administration&#13;</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">germany-divided</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="88.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG010</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG010.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Bronze sculpture commemorating Berlin Airlift</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1990-1999</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">This bronze commemorative piece replicates the memorial to the Berlin Airlift, also known as &quot;Operation Vittles.&quot;  Each prong represents one of the three air corridors open for cargo planes.  On the original, the names of the U.S. and British Airmen killed during the are inscribed on the base of each prong.  </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Loan to the U.S. Diplomacy Center from Harry J. Gilmore (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Hardening of Relations:  West and East Germany</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="88.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG011</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG011.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Soviet Prime Minister Nikita Khrushchev in East Berlin, Germany</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">May 19, 1960</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Soviet Prime Minister Nikita Khrushchev waves his hat from his open car to welcoming crowds along the Stalin-Alee in Communist East Berlin, Germany.  Khrushchev is flanked by Walter Ulbricht, left, chief of the East German Communist Party, and Otto Grotewohl, the East German Prime Minister.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Hardening of Relations:  West and East Germany</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG013</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG013.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">President Kennedy in 1963 delivering his acclaimed &lt;i&gt;Ich bin ein Berliner&lt;/i&gt; speech in Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">June 26, 1963</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. President John F. Kennedy delivers his famous &quot;I am a Berliner&quot; (&lt;i&gt;&quot;Ich bin ein Berliner&quot;&lt;/i&gt;) speech in front of the city hall in West Berlin.  On the far right of the image is West Berlin Mayor Willy Brandt.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;Ich bin ein Berliner.&quot; President John F. Kennedy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="153.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG014</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG014.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">U.S. President John F. Kennedy visits West Berlin </Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">June 26, 1963</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">President Kennedy, left, seated in car with Berlin Mayor Willy Brandt and German Federal Chancellor Konrad Adenauer, visiting West Berlin in 1963.  On the occasion of Kennedy’s visit, East German border guards suspended large panels of red cloth from the Brandenburg Gate and mounted an English-language propaganda poster directly in front of it.  The poster maintained that the denazification and demilitarization of Germany that had been called for in Potsdam had only occurred in East Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Bildarchiv Preussischer Kulturbesitz/Art Resource, NY</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;Ich bin ein Berliner.&quot; President John F. Kennedy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG012</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG012.jpg</Data></Cell>
+    <Cell StyleID="s43"><Data Type="String">Magazine: &lt;i&gt;Berliner Illustrierte&lt;/i&gt; President Kennedy in Deutschland, Sonderndruck </Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1963.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Title translation: Berlin Illustrated President Kennedy in Germany, Special Edition.  Visit of President John F. Kennedy to Berlin. (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;Ich bin ein Berliner.” President John F. Kennedy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="102.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG015</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG015.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">East German refugees at a camp in West Berlin&#13;</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">January 20,1953</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&#13;Refugees from the East Germany improvised housekeeping in this West Berlin refugee camp in January 1953.  They used their quarter for sleeping cooking and washing.  A daily average of about 700 refugees arriving in West Berlin taxed the city's resources to accommodate them. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;They were losing huge numbers of East Germans...&quot; Bruce Flatin</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG016</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG016.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">West Berliner waves across the Wall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">August 23, 1961</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">A West Berlin woman waves to people on the other side of the concrete wall dividing West and East Berlin. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Consequences of the Wall</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG017</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG017.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Berlin Wall with watch tower</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1978.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Arial view of the Berlin Wall.  Marksmen in the towers had &quot;shoot to kill&quot; orders to stop escapees. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Consequences of the Wall</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG018</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG018.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">West Berlin apartment at Wall's edge</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1970-1979</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">West Berlin woman waters her plants in an apartment at Wall's edge.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Department of State, Office of the Historian</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Consequences of the Wall</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG019</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG019.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Berlin Wall graffiti</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1961.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">On the western side of the Berlin Wall, the graffiti letters &quot;KZ&quot; stand for &lt;i&gt;&quot;Konzentrationslager&quot;&lt;/i&gt; or &quot;Concentration Camp,&quot; indicating the graffiti artist's disdain for the Wall.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">National Archives and Records Administration&#13;</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Consequences of the Wall</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s44"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG020</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG020.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Construction of the Berlin Wall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">August 13, 1961</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German soldiers, left, set up barbed wire barricades August 13, 1961 at the border separating Berlin, Germany, to restrict the travel between the eastern and western part of the German city.  West Berlin citizens, right, watch the work. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The Wall Goes Up</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG021</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG021.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Berlin Wall security</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">September 30, 1961</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">An East Berlin soldier secures a steel bar to hold the barbed wire atop the Berlin Wall.  The Communists continually tightened border security at the Wall.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The Wall Goes Up</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG022</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG022.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Face off at Checkpoint Charlie</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">October 1961</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Army tanks, foreground, face off against Soviet tanks across the Berlin Wall at Checkpoint Charlie in a tense standoff, October 27 and 28, 1961.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The Wall Goes Up</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG023</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG023.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Crosses honor victims of the Berlin Wall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">2007.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Tourists look at the remembrance crosses for the victims of the Berlin wall, August 13, 2007 in Berlin near the Reichstag (German Parliament Building).</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Helsinki Accords:  &quot;...the major league of international affairs...&quot; G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG024</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG024.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Treaty of Moscow</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">August 12, 1970</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The 1970 non-agression Treaty of Moscow that German Chancellor Willy Brandt and Soviet Prime Minister Alexej Kosygin signed. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Normalization:  Coming to Terms with Two Germanys</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="102.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG025</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG025.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String"> Signing of the Treaty of Moscow</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">August 12, 1970</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Chancellor Willy Brandt (left) and Soviet Prime Minister Alexej Kosygin (right) sign the Treaty of Moscow, an agreement between Germany and the Soviet Union in 1970.  The treaty renounces violence and is seen as a first step toward better cooperation between Western and Eastern Europe.  Leonid Breshnev, Soviet Union communist leader, stands behind right.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Normalization:  Coming to Terms with Two Germanys</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG026</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG026.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Signing the Four Power Treaty</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">June 3, 1972</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">From left, French Foreign Minister Maurice Schumann, British Foreign Minister Alexander Douglas-Home, Russian Foreign Minister Andrei Gromyko and U.S. Secretary of State William Rogers sign the final protocol of the four power Berlin agreement in West Berlin.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">National Archives and Records Administration&#13;</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Normalization:  Coming to Terms with Two Germanys</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="165.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG027</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG027.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Initialing the Basic Treaty&#13;</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">November 8, 1972</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Negotiations regarding the Basic Treaty between East and West Germany were extremely complicated and protracted because East Germany insisted on recognition as a separate nation under international law, while West Germany did not want to relinquish its hopes for reunification.  At a meeting in Bonn on November 8, 1972, East German State Secretary Michael Kohl (left) and West German State Secretary Egon Bahr (right) initialed the Basic Treaty between West Germany and East Germany.  The treaty was officially signed on December 21, 1972.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Bildarchiv Preussischer Kulturbesitz/Art Resource, NY</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Normalization:  Coming to Terms with Two Germanys</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG028</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG028.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Brochure, USA Exhibit, Leipzig Spring Fair, 1979</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">March 11-18, 1979</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">This bilingual flier announces the U.S. Information Agency's contribution to and participation in the Leipzig Fair.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">David B. Bolen Papers, Hoover Institution Archives, Stanford University</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomacy:  &quot;...a system of deliberate contacts...&quot; Jonathan Dean</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="102.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG029</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG029.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">U.S. Computer exhibit at Leipzig Trade Fair</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1979.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Through an active exhibition program, the U.S. Information Agency circulated many shows in Soviet bloc countries to inform people about American life, economy and culture.  As part of the U.S. Embassy East Berlin's public diplomacy, this exhibition on U.S. computers reached thousands of visitors from behind the Iron Curtain.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">David B. Bolen Papers, Hoover Institution Archives, Stanford University</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomacy:  &quot;...a system of deliberate contacts...&quot; Jonathan Dean</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG030</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG030.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Map showing West German and Soviet Zone Transmitters</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1961.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Map detailing transmitters in operation and those under construction throughout West and East Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Department of State, Bureau of International Information Programs</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomacy:  &quot;...a system of deliberate contacts...&quot; Jonathan Dean</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG031</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG031.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Map showing visibility range of West German and Soviet Zone television broadcasts</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1961.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Map showing visibility range of West German television broadcasts into the Soviet Zone, and Soviet Zone broadcasts into West Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Department of State, Bureau of International Information Programs</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomacy:  &quot;...a system of deliberate contacts...&quot; Jonathan Dean</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG032</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG032.jpg</Data></Cell>
+    <Cell StyleID="s43"><Data Type="String">RIAS Berlin Poster created by Jack N. Mohr, 1996.</Data></Cell>
+    <Cell StyleID="s41"/>
+    <Cell StyleID="s40"><Data Type="String">Radio In the American Sector (RIAS) brodcasted uncensored news and reports from the Western point of view into divided Berlin, Germany beginning in 1946. RIAS was transformed into the unified German national radio station in 1993.   This poster was created using a motif created in 1948 by Günter Mohr (GÜMO)</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Courtesy of Jack N. Mohr and Günter Mohr </Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomacy:  &quot;...a system of deliberate contacts...&quot; Jonathan Dean</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="102.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG033</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG033.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Leipzig Trade Fair exhibition hall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1965.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Crowds gather in the exhibition hall for the electronics branch at the Leipzig Trade Fair.  West German industries participated in the 1965 fair with renewed vigor, determined not to lose step with foreign competitors.  In the wake of intensified intra-German trade, the Leipzig Trade Fair became an important point of exchange between East and West.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Bildarchiv Preussischer Kulturbesitz/Art Resource, NY</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomacy:  &quot;...a system of deliberate contacts...&quot; Jonathan Dean</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="279.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG034</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG034.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Stasi Operational Assessment document on surveillance of diplomat G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s41"/>
+    <Cell StyleID="s40"><Data Type="String">Nearly 20 years after serving in East Berlin, U.S. diplomat G. Jonathan Greenwald received a several inches thick file the Stasi had compiled on him, his family and friends.  This report covers a visit his wife and some friends paid to the city of Weimar, East Germany, in February 1989.  The Stasi had taped Greenwald's telephone conversation planning the trip and tailed them during the excursion.  The Stasi produced a detailed report beginning with the notation of their arrival in Weimar at 17:45 (5:45 p.m.) in the afternoon and continues with near minute-by-minute observations of their activity until they departed at 14:55 (2:55 p.m.) the next day.  The “Operational Assessment” (pictured) concludes with an implied sense of disappointment:  “The impression was gained that Greenwald and the persons accompanying him used their stay in Weimar to make themselves familiar with the worthwhile things to see and the places of activity relating to the great classic figures of German literature …. No contacts or attempts at contact by Greenwald and the persons accompanying him with other persons were established during the time they were observed …”  Greenwald's appetite for German sausage gained him the Stasi nickname, &quot;Ceaser. the Bockwurst Fan.&quot; </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Courtesy of G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomats in East Germany:  &quot;creating an amenable climate...&quot;  Edward Alexander</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG035</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG035.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Stasi surveillance photograph of diplomat G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s41"/>
+    <Cell StyleID="s40"><Data Type="String">(double image with Weimar 5.jpg)</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Courtesy of G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomats in East Germany:  &quot;creating an amenable climate...&quot;  Edward Alexander</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG036</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG036.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">U.S. passport, canceled</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1986.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. passport issued to Douglas Mossman, with entry and exit stamps from East Germany.  The stamps indicated not only date, but also method of travel; entry by airplane, exit by vehicle.  </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Loan to the U.S. Diplomacy Center from Douglas M. Mossman (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomats in East Germany:  &quot;creating an amenable climate...&quot;  Edward Alexander</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG037</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG037.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Honecker and Schmidt</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1981.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German State and Party leader Erich Honecker offers candy as farewell gift to West German Chancellor Helmut Schmidt as Schmidt leaves East Germany en route to West Germany in 1981.  Beside Schmidt is West German Minister for German Affairs, Egon Franks.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s44"><Data Type="String">Willy Brandt and New Ostpolitik</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG038</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG038.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Willy Brandt and Henry Kissinger</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">September 1972</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Presidential Advisor Henry Kissinger made a stopover en route to Moscow to talk with German Chancellor Willy Brandt.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">National Archives and Records Administration&#13;</Data></Cell>
+    <Cell StyleID="s44"><Data Type="String">Willy Brandt and New Ostpolitik</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG039</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG039.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">President Reagan and Mikhail Gorbachev in Red Square, Moscow</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">May 31, 1988</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. President Ronald Reagan (left) and Soviet leader Mikhail Gorbachev (right) stand alone during their impromptu walk in Red Square in Moscow.  Although U.S.-Soviet relations were strained in the late 1980s, the two established good personal rapport.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;The new is knocking on every door and window...&quot; Mikhail Gorbachev</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG040</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG040.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Polish pro-Solidarity pilgrimage</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">September 18, 1988</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Pro-Solidarity banners are held aloft by the participants of a workers' pilgrimage in southern Poland.  The slogans read:  &quot;Bread of Freedom - &lt;i&gt;Solidarnosc&lt;/i&gt; (Solidarity)&quot; or &quot;Can We? We Can. Polish &lt;i&gt;Perestroika&lt;/i&gt;.&quot;</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;The new is knocking on every door and window...&quot; Mikhail Gorbachev</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG041</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG041.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Mikhail Gorbachev visits Bonn, Germany</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">June 12, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Soviet President Mikhail Gorbachev, center left, shakes hands with German student Annette Lang, and received two coins from her as a symbol of Soviet-West German relations.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;The new is knocking on every door and window...&quot; Mikhail Gorbachev</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG042</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG042.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">New leader of East Germany Egon Krenz</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">October 24, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Egon Krenz waves to the public in East Berlin six days after replacing Erich Honecker as East German leader and head of Communist Socialist Unity Party.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;There is in the East air beginning to rise...&quot;  G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG043</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG043.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Removal of the &quot;Iron Curtain&quot; at the Czechoslovakia and West German border</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">December 23, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Citizens of Czechoslovakia and West Germany gleefully take apart a section of the &quot;Iron Curtain&quot; that separated their countries in Waidhaus, West Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;There is in the East air beginning to rise...&quot;  G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG044</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG044.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">President George H. W. Bush and Secretary of State James Baker honored</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">July 11, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Hungarian Premier Miklos Nemeth presents President George H. W. Bush (left) and Secretary of State James Baker (right) with inscribed plaques containing a section of barbed wire removed from the Hungarian-Austrian border. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Official White House Photograph </Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;There is in the East air beginning to rise...&quot;  G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG045</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG045.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">German Police guard the U.S. Embassy to East Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">October 4, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">A long line of East German police guard the U.S. Embassy to East Berlin, October 4, 1989, to prevent more East Germans from entering the building. Eighteen East Germans had fled there in search of freedom in the West in the previous five days.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">&quot;There is in the East air that is beginning to rise...&quot; G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG046</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG046.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Monday demonstration in Leipzig, East Germany</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">October 2, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German demonstrators showing the victory sign during a demonstration in the city of Leipzig, October 2, 1989.  More than 20,000 people took part in the demonstration for democratic reforms in their country.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Agents of Change:  &quot;...speaking out ever more publicly...&quot; G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG047</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG047.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Monday demonstration in Leipzig, East Germany</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">October 30, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German demonstrators carrying a banner which reads 'New Forum, new hope' during a peaceful protest march in downtown Leipzig October 30, 1989. More than 300,000 East German took part in the demonstration for political reforms.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Agents of Change:  &quot;...speaking out ever more publicly...&quot; G. Jonathan Greenwald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG048</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG048.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">German newspaper announcing fall of Berlin Wall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">November 10, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Headline in English: The wall is down; Berlin is again Berlin.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center   (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String" Ticked="1">November 9, 1989</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="139.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG049</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG049.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Mounted piece of the Berlin Wall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1989.0</Data></Cell>
+    <Cell StyleID="s44"><Data Type="String">Ambassador Bruce Gelb received this mounted chunk of the Berlin Wall when he was serving as Director of the U.S. Information Agency from 1989-1991.  Within days of opening the Wall, people had cut, chipped, chiseled, chopped or smashed chunks from it; some the size of gravel, others entire segments shipped to sites around the world. Wherever these pieces landed, in public sites or private hopes, they continuously remind people that no matter the barriers, the human spirit will eventually find a way to freedom. </Data></Cell>
+    <Cell StyleID="s44"/>
+    <Cell StyleID="s40"><Data Type="String">Loan to the U.S. Diplomacy Center from Bruce Gelb (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String" Ticked="1">November 9, 1989</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG050</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG050.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Short-sleeved T-shirt</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1989.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">T-shirt with screened image of artistic rendering of the front page of the Washington Post, November 10, 1989. Popular culture was quick to proclaim the exciting events in Berlin.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center  (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String" Ticked="1">November 9, 1989</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG051</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG051.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">East Germans shopping in West Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">November 18, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The Kurfuerstendamm Boulevard&#45;-the main shopping thorougfare&#45;-in West Berlin is crowded with people as hundreds of thousands came over from East Germany for shopping and sightseeing.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String" Ticked="1">November 9, 1989</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="102.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG056</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG056.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Friendship Barbie Doll, in box</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1990-1999</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">It is not known if Friendship Barbie celebrated the collapse of the Wall with her friend Summit Diplomat Barbie, but both dolls made a popular culture statement in 1990 about the end of Cold War. Friendship Barbie was sold only in Berlin and East Germany. The words on the back of the box read, &quot;Barbie welcomes friends from all over the world.&quot; </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Effects of Freedom&#13;</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG057</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG057.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Zippo cigarette lighter</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1989.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">This silver Zippo lighter is etched with an outline of the broken Berlin Wall and two German flags celebrating unity. The symbolism commemorates Germany's historic events and transforms an ordinary lighter into a popular culture souvenir of a historic period. </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Collections of the U.S. Diplomacy Center (Photo by Alex Jamison) </Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Effects of Freedom&#13;</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="139.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG058</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG058.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Fragments of the Berlin Wall, in acrylic</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1990-1999</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Muscians of Berlin's acclaimed Trio Appolon (Matthias Glander, Felix Schwartz and Wolfgang Kühnl) brought these fragments of the Wall encased in acrylic as tokens to exchange in New York City while performing with Berlin's Staatskapelle Orchestra at a Mahler Festival in Carnegie Hall. In 20 years the Wall has cycled from a repressive barrier to a symbol that promotes the culture of Berlin. The gold stamped words on the acrylic read, &quot;A piece of German history.&quot; </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Gift of Matthias Glander, Felix Schwartz and Wolfgang Kühnl (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Effects of Freedom&#13;</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG059</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG059.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Berlin Wall underfoot</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">2004.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">A passerby in Berlin crosses a memorial strip near the Brandenburg Gate where the Wall once stood.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Effects of Freedom&#13;</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG052</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG052.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">U.S. Minister's flag, Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">1980-1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">This diplomatic flag, represents the diplomatic position of U.S. Minister. This flag has a unique history, as Ambassador Harry J. Gilmore was the last U.S. Minister to use this flag while serving in West Berlin in 1989.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Loan to the U.S. Diplomacy Center from Harry J. Gilmore (Photo by Alex Jamison)</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">New Era, New Embassy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="114.0">
+    <Cell StyleID="s40"><Data Type="String">artifact</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG053</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG053.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Problems of Communism:  Toward a Postcommunist World</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1992.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The U.S. Information Agency published Problems of Communism, a bimonthly journal, during the Cold War. Toward a Post Communist World was the subject of a 1992 conference marking the journal’s 40 years in print.  The journal continues today with a different publisher under the name Problems of Post-Communism, keeping in step with the new era now that the &quot;Iron Curtain&quot; has fallen.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Department of State, Bureau of International Information Programs</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">New Era, New Embassy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG054</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG054.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">U.S. Embassy, Berlin</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">May 19, 2008</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">A view of the new U.S. embassy, left side, at the Brandenburg Gate in Berlin, Germany.  The embassy opened in 2008.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">New Era, New Embassy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="63.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG055</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG055.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Checkpoint Charlie decommissioning ceremony</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1990.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Attending the Decommissioning of Checkpoint Charlie, Berlin, were the U.S. Minister to West Berlin Harry Gilmore (left); U.S. Minister to East Berlin, J.D. Bindenagel (right), and West German Political Director Dieter Kastrup (center).</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Courtesy of J.D. Bindenagel</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">New Era, New Embassy</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="37.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG060</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG060.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">East German pro-Unification demonstrators</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">December 18, 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">East German demonstrators hold a banner reading &quot;One Germany&quot; in a peaceful rally in Dresden, Germany.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The Turning</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="24.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG061</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG061.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">The extinct Berlin Wall</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">November 1989</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Artist Jeff Koterba depicts the fall of the Berlin Wall that suddenly was as &quot;dead as a dinosaur.&quot;</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">North American Syndicate</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The Turning</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="102.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG062</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG062.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Two Plus Four delegates</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">March 14, 1990</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">The delegation for the first Two Plus Four negotiations poses for the press in Bonn, West Germany. From right to left: Dieter Kastrup (West Germany), John Weston (Great Britain), Anatoli Leonidovich Adamachin (USSR), Bertrand Dururcq (France), Hans-Dietrich Genscher (West Germany), Robert Zoellick (USA) and Ernst Krabatsch (East Germany). </Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomats: &quot;...we did believe...&quot; G. Jonathan Greewald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="75.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG063</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG063.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Signing of the German Unification Treaty</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">August 3, 1990</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">West German Secretary of State Wolfgang Schaeuble (left), his East German counterpart Guenther Krause (right) and East German Prime Minister Lothar de Maizire (center) symbolically holding hands following the signing of the German unification treaty in East Berlin.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomats: &quot;...we did believe...&quot; G. Jonathan Greewald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG064</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG064.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">German Unification Treaty</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String" Ticked="1">September 23, 1990</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Richard Karl von Weizsäcker, President of the Federal Republic of Germany, signed the German Unification Treaty on the left side and signatures of the Federal Ministers appear on the right.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">U.S. Diplomats: &quot;...we did believe...&quot; G. Jonathan Greewald</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="51.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG065</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG065.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Brandenburg Gate comparison, 1988 and 1995.</Data></Cell>
+    <Cell StyleID="s41"><Data Type="Number">1995.0</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">Combined images of (top) grafitti-covered Berlin Wall close to the Brandenburg Gate in Berlin, 1988, and (bottom) Berlin rush hour, October 2, 1995, five years after German unification.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">n/a</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="24.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG066</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG066.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">Leaving American Sector sign</Data></Cell>
+    <Cell StyleID="s41"/>
+    <Cell StyleID="s40"><Data Type="String">A sign warns in four languages that you are about to leave the American Sector of Berlin.</Data></Cell>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Courtesy of Bernard Woerz</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">n/a</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0" Height="24.0">
+    <Cell StyleID="s40"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG067</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">IMG067.jpg</Data></Cell>
+    <Cell StyleID="s41"><Data Type="String">A view of Check Point Charlie</Data></Cell>
+    <Cell StyleID="s41"/>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"/>
+    <Cell StyleID="s40"><Data Type="String">Courtesy of Douglas M. Mossman</Data></Cell>
+    <Cell StyleID="s40"><Data Type="String">n/a</Data></Cell>
+    <Cell StyleID="s36"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s46"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s47"><Data Type="String">IMG068</Data></Cell>
+    <Cell StyleID="s47"><Data Type="String">IMG068.jpg</Data></Cell>
+    <Cell StyleID="s48"><Data Type="String">President George H. W. Bush at treaty signing</Data></Cell>
+    <Cell StyleID="s48"><Data Type="String" Ticked="1">September 25, 1990</Data></Cell>
+    <Cell StyleID="s46"><Data Type="String">U.S. President George H. W. Bush (center), Secretary of State James A. Baker (right) and Federal Republic of Germany Ambassador Juergen Ruhfus (left) smile during the signing ceremony at the White House Rose Garden of the Treaty on the Reunification of Germany.</Data></Cell>
+    <Cell StyleID="s46"/>
+    <Cell StyleID="s46"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s46"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s46"><Data Type="String">IMG069</Data></Cell>
+    <Cell StyleID="s46"><Data Type="String">IMG069.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Grafitti on Berlin Wall</Data></Cell>
+    <Cell StyleID="s50"><Data Type="Number">1988.0</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">A section of the Berlin Wall at Potsdamer place reads &quot;Berlin becomes Wall free.&quot;</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG070</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG070.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Chipping away at the Berlin Wall</Data></Cell>
+    <Cell StyleID="s50"><Data Type="Number">1989.0</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">Souvenir seekers at the western side of the Berlin Wall near Potsdamer Platz in Berlin, next to signs painted on the wall forbidding the chipping of the sought-after cement. </Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG071</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG071.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">West side of Berlin Wall</Data></Cell>
+    <Cell StyleID="s50"><Data Type="Number">1989.0</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">Journalists and photographers cast long shadows on the ground in front of the west side of the Berlin Wall, in Berlin, on Wednesday, morning, Nov. 15, 1989. Reporters and onlookers stay the night to wait for the pulling down of the wall in front of the Brandenburg Gate (in rear). So far East German officials did not announce if or when the wall at this side will be tourn down. </Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG072</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG072.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Segments of the torn-down Berlin Wall</Data></Cell>
+    <Cell StyleID="s50"><Data Type="Number">1990.0</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">A visitor looks at graffiti splattered segments of the former Berlin Wall, in East Berlin. The sections, taken out of the wall in the Kreuzberg district earlier, are stored here to be inspected and sold to the bidders from all over the world. The income will be used to sponsor aid programs in East Germany. </Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG073</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG073.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Piece of the Berlin Wall at the United Nations</Data></Cell>
+    <Cell StyleID="s50"/>
+    <Cell StyleID="s38"><Data Type="String">Piece of the Berlin Wall at the United Nations, New York, NY</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">UN Photo/Paulo Filgueiras</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG074</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG074.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Piece of the Berlin Wall at the John F. Kennedy Library</Data></Cell>
+    <Cell StyleID="s50"/>
+    <Cell StyleID="s38"><Data Type="String">Piece of the Berlin Wall at the John F. Kennedy Library, Boston, MA</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">John F. Kennedy Presidential Library and Museum</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG075</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG075.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Piece of the Berlin Wall at the George H. W. Bush Library</Data></Cell>
+    <Cell StyleID="s50"/>
+    <Cell StyleID="s38"><Data Type="String">Piece of the Berlin Wall at the George H. W. Bush Library, College Station, TX</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">George Bush Presidential Library and Museum, Brian Blake</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG076</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG076.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Piece of the Berlin Wall at the Ronald Reagan Library</Data></Cell>
+    <Cell StyleID="s50"/>
+    <Cell StyleID="s38"><Data Type="String">Piece of the Berlin Wall at the Ronald Reagan Library, Simi Valley, CA</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">Courtesy Ronald Reagan Library</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG077</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG077.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Piece of the Berlin Wall at the European Union Parliament Building</Data></Cell>
+    <Cell StyleID="s50"/>
+    <Cell StyleID="s38"><Data Type="String">Piece of the Berlin Wall at European Union Parliament Building, Brussels, Belgium</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">Courtesy of Luke Bales Stodola</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s38"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG078</Data></Cell>
+    <Cell StyleID="s38"><Data Type="String">IMG078.jpg</Data></Cell>
+    <Cell StyleID="s50"><Data Type="String">Piece of the Berlin Wall in Buenos Aires, Argentina</Data></Cell>
+    <Cell StyleID="s50"/>
+    <Cell StyleID="s38"><Data Type="String">Piece of the Berlin Wall in Buenos Aires, Argentina</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"><Data Type="String">Courtesy of Ian Kath</Data></Cell>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG079</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG079.jpg</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String">Piece of the Berlin Wall at the Imperial War Museum</Data></Cell>
+    <Cell StyleID="s51"/>
+    <Cell StyleID="s37"><Data Type="String">Piece of the Berlin Wall at the Imperial War Museum, London, England</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"><Data Type="String">Imperial War Museum</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG080</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG080.jpg</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String">Piece of the Berlin Wall at the Montreal World Trade Center</Data></Cell>
+    <Cell StyleID="s51"/>
+    <Cell StyleID="s37"><Data Type="String">Piece of the Berlin Wall at the Montreal World Trade Center, Montreal, Canada</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"><Data Type="String">Courtesy of Flickr user wallyg</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG081</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG081.jpg</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String">Piece of the Berlin Wall at Kronvalds Park, Riga, Latvia</Data></Cell>
+    <Cell StyleID="s51"/>
+    <Cell StyleID="s37"><Data Type="String">Piece of the Berlin Wall at Kronvalds Park, Riga, Latvia</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"><Data Type="String">Courtesy of http://riga.in</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG082</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG082.jpg</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String">Piece of the Berlin Wall in Seoul, Korea</Data></Cell>
+    <Cell StyleID="s51"/>
+    <Cell StyleID="s37"><Data Type="String">Piece of the Berlin Wall in Seoul, Korea</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"><Data Type="String">Courtesy of Wikipedia user gallaghb</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG083</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG083.jpg</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String">Piece of the Berlin Wall in Cape Town, South Africa</Data></Cell>
+    <Cell StyleID="s51"/>
+    <Cell StyleID="s37"><Data Type="String">Piece of the Berlin Wall in Cape Town, South Africa</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"><Data Type="String">Courtesy of Flickr user neasanoneill</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">image</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG084</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">IMG084.jpg</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String">Berliners atop the Berlin Wall</Data></Cell>
+    <Cell StyleID="s51"><Data Type="String" Ticked="1">November 10, 1989</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">Berliners from East and West crowd in front of the Branderburg Gate, in the early morning of November 10, 1989.  They are standing atop and below the Berlin Wall, which has divided the city since the end of World War II.</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"><Data Type="String">AP</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+   <Row AutoFitHeight="0">
+    <Cell StyleID="s37"><Data Type="String">oral-history</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">AUD001</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">OHI002.jpg</Data></Cell>
+    <Cell StyleID="s58"><Data Type="String">Jonathan Dean, Political Counselor, Bonn, 1968-1972</Data></Cell>
+    <Cell StyleID="s51"/>
+    <Cell StyleID="s37"><Data Type="String">U.S. Ambassador David Bolen (right) greets East German Chairman of the Council of State Erich Honecker upon Bolen’s presenting his credentials in 1977.  U.S. diplomat Jonathan Dean in Bonn reflected on U.S. reservations about conducting diplomacy in this hard-line communist country.</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">There was a fear in Washington, not only of Sovietphobes, that East Germany would end up with its status increased. Indeed, that was exactly what did happen. East Germany in practice became associated with the four wartime Allies and the Federal Republic of Germany in the administration of Berlin. That was the practical outcome of these Berlin negotiations. And as part of the whole complex, the Federal Republic recognized East Germany as an independent state. They assumed diplomatic relations with one another and both German nations entered the United Nations as independent states. &lt;br&gt; Of course, the basic importance of the Ostpolitik and all of these agreements, coming to the final outcome and the conclusion, was that the West Germans convinced the East German officials that, if there was some kind of political settlement, the East Germans were not going to be taken out and executed by the victors. That eliminated probably the most basic reason for resisting the later unification.</Data></Cell>
+    <Cell StyleID="s37"><Data Type="String">David B. Bolen Papers, Hoover Institution Archives, Stanford University</Data></Cell>
+    <Cell StyleID="s58"><Data Type="String">normalization</Data></Cell>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s37"/>
+    <Cell StyleID="s38"/>
+   </Row>
+ 
+  </Table>
+ 
+ </Worksheet>
+</WorkBook>

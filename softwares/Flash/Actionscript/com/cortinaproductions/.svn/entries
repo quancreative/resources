@@ -1,0 +1,64 @@
+8
+
+dir
+100
+svn://intranet.cortinaproductions.com/actionscript/trunk/com/cortinaproductions
+svn://intranet.cortinaproductions.com/actionscript
+
+
+
+2009-09-24T00:20:14.244336Z
+100
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+graphics
+dir
+
+kiosk
+dir
+
+events
+dir
+
+text
+dir
+
+video
+dir
+
+accessibility
+dir
+
+away3d
+dir
+
+math
+dir
+
+tts
+dir
+
+bitmap
+dir
+
+ui
+dir
+
+util
+dir
+

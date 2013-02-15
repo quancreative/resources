@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exhibitions SYSTEM "http://www.thamtech.com/dtds/usdc-exhibitions.dtd">
+<exhibitions>
+  <exhibition id="in-the-cold-war">
+    <title><![CDATA[<strong>"We were very much in the Cold War..."</strong> - Karl Mautner]]></title>
+    <introduction>
+      <![CDATA[
+      Post WW II diplomacy faced innumerable challenges as the Nuremburg Trials
+      judged Nazi war criminals and the Cold War froze relations between the
+      Allies and Soviets......
+      ]]>
+    </introduction>
+    
+    <subtopics>
+      <subtopic>
+        <title>Germany Divided</title>
+        <body>
+          U.S. diplomat Jacques Reinstein recalledhow the 1945 Potsdam
+          Agreement dividing Germany among the Allies, "came as a considerable
+          shock to the State Department," which had planned to proceed more
+          slowly. ...
+        </body>
+        <related-items>
+          <related-item ref="printing-block"/>
+          <related-item ref="printing-block-2"/>
+        </related-items>
+      </subtopic>
+      
+      <subtopic>
+        <title>Berlin Divided and Isolated</title>
+        <body>
+          U.S. diplomat Jacques Reinstein recalledhow the 1945 Potsdam
+          Agreement dividing Germany among the Allies, "came as a considerable
+          shock to the State Department," which had planned to proceed more
+          slowly. ...
+        </body>
+        <related-items>
+          <related-item ref="printing-block"/>
+          <related-item ref="printing-block-2"/>
+        </related-items>
+      </subtopic>
+    </subtopics>
+  </exhibition>
+  
+</exhibitions>

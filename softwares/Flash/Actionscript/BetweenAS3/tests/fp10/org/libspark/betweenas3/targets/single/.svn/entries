@@ -1,0 +1,67 @@
+8
+
+dir
+2525
+http://www.libspark.org/svn/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/single
+http://www.libspark.org/svn
+
+
+
+2009-03-02T13:12:46.701558Z
+2314
+yossy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7c0a6d06-9f08-4704-a8a8-7f8aea5d0da0
+
+ObjectTweenTargetTest.as
+file
+
+
+
+
+2009-04-16T16:08:55.000000Z
+afdc8fe15e491c37c4a493dc4acb925f
+2009-02-11T12:50:25.212242Z
+2244
+yossy
+
+display
+dir
+
+SingleTargetsAllTests.as
+file
+
+
+
+
+2009-04-16T16:08:55.000000Z
+05407bc37cad7a2075b07b421089034c
+2009-03-02T13:12:46.701558Z
+2314
+yossy
+
+SingleTweenTargetLadderTest.as
+file
+
+
+
+
+2009-04-16T16:08:55.000000Z
+2faae39d2c398f1bf6e5a2819be3b3a2
+2009-03-02T13:12:46.701558Z
+2314
+yossy
+

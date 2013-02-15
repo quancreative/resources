@@ -1,0 +1,11 @@
+betweenas3.version=Beta
+
+FLEX_HOME=/Users/yossy/DataFiles/Libraries/flex_sdk_3.3.0.4589/
+
+src.dir=${basedir}/src
+src.fp10.dir=${src.dir}/fp10
+src.fp9.dir=${src.dir}/fp9
+
+output.swc.dir=${basedir}/bin
+output.swc.fp10.name=${output.swc.dir}/BetweenAS3-${betweenas3.version}-fp10.swc
+output.swc.fp9.name=${output.swc.dir}/BetweenAS3-${betweenas3.version}-fp9.swc

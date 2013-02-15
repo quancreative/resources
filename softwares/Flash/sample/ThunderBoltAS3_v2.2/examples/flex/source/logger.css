@@ -1,0 +1,59 @@
+
+
+global 
+{
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 15px;
+	color:#666;
+	verticalGap: 0;
+	horizontalGap: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+Application
+{
+	background-color: #FFF;
+	backgroundGradientColors: #FFF, #FFF;
+	backgroundGradientAlphas: 1.0, 1.0;
+	padding-top: 30px;
+	padding-left: 10;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	horizontal-align: center;
+}
+
+Button
+{
+	color: #FFFFFF;
+	textRollOverColor: #FFFFFF;
+	textSelectedColor: #4F8C00;
+	disabledColor: #CFCFCF;
+	fontWeight: normal;
+	upSkin: Embed(source="../assets/png/Button_upSkin.png",scaleGridLeft="5",scaleGridTop="4",scaleGridRight="58",scaleGridBottom="19");
+	overSkin: Embed(source="../assets/png/Button_overSkin.png",scaleGridLeft="5",scaleGridTop="4",scaleGridRight="58",scaleGridBottom="19");
+	downSkin: Embed(source="../assets/png/Button_downSkin.png",scaleGridLeft="5",scaleGridTop="4",scaleGridRight="58",scaleGridBottom="19");
+	disabledSkin: Embed(source="../assets/png/Button_disabled.png",scaleGridLeft="5",scaleGridTop="4",scaleGridRight="58",scaleGridBottom="19");
+}
+
+CheckBox
+{
+	color: #46B4FF;
+	textRollOverColor: #FF45B4;
+	textSelectedColor: #DEF347;
+	upIcon: Embed(source="../assets/png/CheckBox_upIcon.png");
+	overIcon: Embed(source="../assets/png/CheckBox_overIcon.png");
+	downIcon: Embed(source="../assets/png/CheckBox_downIcon.png");
+	disabledIcon: Embed(source="../assets/png/CheckBox_disabledIcon.png");
+	selectedUpIcon: Embed(source="../assets/png/CheckBox_selectedUpIcon.png");
+	selectedOverIcon: Embed(source="../assets/png/CheckBox_selectedOverIcon.png");
+	selectedDownIcon: Embed(source="../assets/png/CheckBox_selectedDownIcon.png");
+	selectedDisabledIcon: Embed(source="../assets/png/CheckBox_selectedDisabledIcon.png");	
+}
+
+
+
+

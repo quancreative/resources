@@ -1,0 +1,5 @@
+Flash log:
+
+Vista: “%USERPROFILE%\Application Data\Macromedia\Flash Player\Logs\flashlog.txt”
+
+XP: C:\Documents and Settings\username\Application Data\Macromedia\Flash Player\Logs\flashlog.txt

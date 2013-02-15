@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="BetweenAS3" basedir=".">
+	<taskdef resource="flexTasks.tasks" classpath="${basedir}/flexTasks/lib/flexTasks.jar" />
+	<property file="build.properties" />
+	
+	
+	<fileset id="src.fp10.fileset" dir="${src.fp10.dir}/">
+		<include name="**/*.as" />
+	</fileset>
+	<fileset id="src.fp9.fileset" dir="${src.fp9.dir}/">
+		<include name="**/*.as" />
+	</fileset>
+	
+	<pathconvert property="src.fp10.classes" pathsep=" " refid="src.fp10.fileset">
+		<chainedmapper>
+			<globmapper from="${src.fp10.dir}/*" to="*" handledirsep="yes" />
+			<packagemapper from="*.as" to="*" />
+		</chainedmapper>
+	</pathconvert>
+	
+	<pathconvert property="src.fp9.classes" pathsep=" " refid="src.fp9.fileset">
+		<chainedmapper>
+			<globmapper from="${src.fp9.dir}/*" to="*" handledirsep="yes" />
+			<packagemapper from="*.as" to="*" />
+		</chainedmapper>
+	</pathconvert>
+	
+	<target name="clean.swc.fp10">
+		<delete file="${output.swc.fp10.name}" />
+	</target>
+	
+	<target name="clean.swc.fp9">
+		<delete file="${output.swc.fp9.name}" />
+	</target>
+	
+	<target name="swc.fp10" depends="clean.swc.fp10">
+		<compc output="${output.swc.fp10.name}" include-classes="${src.fp10.classes}">
+			<load-config filename="${FLEX_HOME}/frameworks/flex-config.xml" />
+			<target-player>10.0.0</target-player>
+			<source-path path-element="${src.fp10.dir}" />
+		</compc>
+	</target>
+	
+	<target name="swc.fp9" depends="clean.swc.fp9">
+		<compc output="${output.swc.fp9.name}" include-classes="${src.fp9.classes}">
+			<load-config filename="${FLEX_HOME}/frameworks/flex-config.xml" />
+			<source-path path-element="${src.fp9.dir}" />
+		</compc>
+	</target>
+</project>

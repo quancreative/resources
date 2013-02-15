@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2314/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets
+END
+SlicedTweenTargetTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2300/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/SlicedTweenTargetTest.as
+END
+RepeatedTweenTargetTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2291/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/RepeatedTweenTargetTest.as
+END
+ScaledTweenTargetTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2298/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/ScaledTweenTargetTest.as
+END
+TargetsAllTests.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2300/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/TargetsAllTests.as
+END
+ParallelTweenTargetTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2287/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/ParallelTweenTargetTest.as
+END
+ReversedTweenTargetTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2290/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/ReversedTweenTargetTest.as
+END
+SerialTweenTargetTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2292/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/SerialTweenTargetTest.as
+END
+TestTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2287/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/targets/TestTweenTarget.as
+END

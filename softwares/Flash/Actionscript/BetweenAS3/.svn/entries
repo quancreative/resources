@@ -1,0 +1,88 @@
+8
+
+dir
+2525
+http://www.libspark.org/svn/as3/BetweenAS3/trunk
+http://www.libspark.org/svn
+
+
+
+2009-04-21T16:11:14.242931Z
+2520
+yossy
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7c0a6d06-9f08-4704-a8a8-7f8aea5d0da0
+
+tests
+dir
+
+BetweenAS3-FP10.as3proj
+file
+
+
+
+
+2009-04-16T16:08:59.000000Z
+5a21f476a4bdd4d8a8b9d5288bbd5117
+2009-04-16T14:56:05.528277Z
+2473
+yossy
+
+src
+dir
+
+libs
+dir
+
+build.properties
+file
+
+
+
+
+2009-04-23T08:38:06.000000Z
+d76739b185c38e91a5747a222d6132b0
+2009-04-21T16:11:14.242931Z
+2520
+yossy
+
+exp
+dir
+
+BetweenAS3-FP9.as3proj
+file
+
+
+
+
+2009-04-16T16:08:59.000000Z
+0135c7cf90a9d1fea40f78ad0b563d5e
+2009-02-09T17:06:17.118610Z
+2232
+yossy
+
+build.xml
+file
+
+
+
+
+2009-04-23T08:38:06.000000Z
+c0c1d8e1189c0fcb1c78f481fb11e1e3
+2009-04-21T16:11:14.242931Z
+2520
+yossy
+

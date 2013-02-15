@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2302/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries
+END
+ClassRegistryTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2302/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries/ClassRegistryTest.as
+END
+ClassA.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2268/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries/ClassA.as
+END
+ClassB.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2268/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries/ClassB.as
+END
+ClassC.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2288/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries/ClassC.as
+END
+ClassD.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2288/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries/ClassD.as
+END
+RegistriesAllTests.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2268/as3/BetweenAS3/trunk/tests/fp10/org/libspark/betweenas3/registries/RegistriesAllTests.as
+END

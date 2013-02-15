@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+* Logging Flash, Flex or AIR projects based on AS3 using Firebug or ThunderBolt AS3 Console
+* 
+* @version	2.2
+* @date		03/08/09
+* 
+* @author	Jens Krause [www.websector.de]
+* 
+* @see		http://www.websector.de/blog/category/thunderbolt/
+* @see		http://code.google.com/p/flash-thunderbolt/
+* @source	http://flash-thunderbolt.googlecode.com/svn/trunk/as3/
+* 
+* ***********************
+* HAPPY LOGGING ;-)
+* ***********************
+* 
+
+-->
+<FxApplication 
+	xmlns="http://ns.adobe.com/mxml/2009"
+	xmlns:mx="library:adobe/flex/halo"
+	>
+	
+	<layout><VerticalLayout /></layout>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	
+
+	<Script>
+		 <![CDATA[
+			import mx.logging.Log;
+			import mx.logging.ILogger;
+        	import org.osflash.thunderbolt.Logger;
+
+			private static const logger:ILogger = Log.getLogger("ThunderBoltTargetExample");
+			
+            private function initializeHandler( ):void
+            {
+                // First of all show an information about ThunderBolt AS3
+               // Logger.console = true;
+                Logger.about();
+            }
+                        
+            private function traceToFirebug(event:Event):void  
+            {
+				//
+				// Optionally you can hide the time stamp
+				// Logger.includeTime = false;
+
+				var myNumber: int = 5;
+				var myString: String = "Lorem ipsum";
+				var myObject: Object = {	exampleArray: ["firstValue", "secondValue"], 
+											y: 10, 
+											exampleString: "Hello", 
+											nestedObject: {	x: 100, 
+															y: 200}
+										};
+										
+										
+				var myArray: Array = [	"firstValue",
+										{	x: 100, 
+											y: 200}, 
+										"secondValue"	];
+				
+				var id: String = event.target.id;
+				
+				switch (id)
+				{
+					case "infoButton":
+						logger.info("Flex is calling: A simple string", 
+									myString);
+						break;
+					case "warnButton":
+						logger.warn ("Flex is calling: Two log objects: A number typed as int and a string", 
+										myNumber, 
+										myString);
+						break;
+					case "errorButton":
+						logger.error ("Flex is calling: An array with a nested object: ", 
+										myArray);
+						break;
+					case "debugButton":
+						logger.debug ("Flex is calling: An object with a nested object and nested array", 
+										myObject);
+						break;
+					case "memButton":
+						logger.info( Logger.memorySnapshot() );
+						break;
+					default:
+						logger.error ("Flex is calling: A button with an ID named " + id + " is not found");
+
+				}
+            }           
+		
+      ]]>
+	</Script>
+
+    <Style>
+    	global
+    	{
+    		color: #333333;
+    		fontSize: 12;
+    		fontFamily: "Verdana";
+    	}
+    	
+		FxButton
+    	{
+    		skinClass:	ClassReference('skins.ButtonSkin');
+    	}
+    	
+    	.h1
+    	{
+    		color: #333333;
+    		fontSize: 25;
+    		fontWeight: "bold";
+    	}
+    </Style>
+
+	
+	<Declarations>
+		<!--
+			Using ThunderBoltTarget
+			
+			You can disable the time, level or category as follow:				
+		    includeTime = "false";
+		    includeLevel = "false";
+		    includeCategory = "false;"
+		    
+		    To use the TunderBolt AS3 Console set: 
+		    console="true"
+		    
+		    Using filters:          
+			filters="{ ['ThunderBoltTargetExample'] }"
+			
+			Hide or show categories  
+			includeCategory = true
+			includeCategory = false
+		-->
+		<tb:ThunderBoltTarget id="tbTarget"
+			xmlns:tb="org.osflash.thunderbolt.*"
+			/>		
+	</Declarations>
+	
+	<Label id="h1"
+    	styleName="h1"
+    	text="ThunderBolt AS3 meets Gumbo" />
+    	
+    <Label 
+    	text="( Press F12 to open Firebug )" />
+    		
+	    <HBox 
+	    	horizontalGap="10"
+	    	paddingBottom="10">
+	    	
+			 <FxButton id="infoButton" 
+			 	width="80" height="40"
+			 	label="info" 
+				click="traceToFirebug(event);" 
+				/> 
+				
+			 <FxButton id="warnButton" 
+			 	width="80" height="40"
+			 	label="warn" 
+				click="traceToFirebug(event);" 
+				/> 
+				
+			 <FxButton id="errorButton" 
+			 	width="80" height="40"
+			 	label="error" 
+				click="traceToFirebug(event);" 
+				/> 
+				  	
+			 <FxButton id="debugButton" 
+			 	width="80" height="40"
+			 	label="debug" 
+				click="traceToFirebug(event);" 
+				/>
+						
+			 <FxButton id="memButton" 
+			 	width="80" height="40"
+			 	label="memory" 
+				click="traceToFirebug(event);" 
+				/>
+				
+	    </HBox>
+	    
+	    <HBox
+	    	horizontalGap="20">
+	    
+			<CheckBox id="hideChB"
+				label="Stop Logging"
+				change="{ Logger.hide = event.target.selected }"/>
+				
+			<!-- Today we don't have a Flash Debug Player, so disable Console as well
+			<CheckBox id="consoleChB"
+				label="ThunderBolt AS3 Console"
+				change="{ Logger.console = event.target.selected }"/>
+				-->
+					    	
+	    </HBox>
+	
+</FxApplication>

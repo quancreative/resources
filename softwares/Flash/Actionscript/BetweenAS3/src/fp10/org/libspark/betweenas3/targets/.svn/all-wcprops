@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2504/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets
+END
+SlicedTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2300/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/SlicedTweenTarget.as
+END
+ITweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2285/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/ITweenTarget.as
+END
+RepeatedTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2291/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/RepeatedTweenTarget.as
+END
+ScaledTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2298/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/ScaledTweenTarget.as
+END
+ParallelTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2287/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/ParallelTweenTarget.as
+END
+ReversedTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2290/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/ReversedTweenTarget.as
+END
+SerialTweenTarget.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2292/as3/BetweenAS3/trunk/src/fp10/org/libspark/betweenas3/targets/SerialTweenTarget.as
+END

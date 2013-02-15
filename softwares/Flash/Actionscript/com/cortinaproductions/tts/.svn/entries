@@ -1,0 +1,40 @@
+8
+
+dir
+100
+svn://intranet.cortinaproductions.com/actionscript/trunk/com/cortinaproductions/tts
+svn://intranet.cortinaproductions.com/actionscript
+
+
+
+2009-07-27T03:28:44.337981Z
+86
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+TTSClient.as
+file
+
+
+
+
+2009-09-21T13:46:52.000000Z
+c5f7ce8dde74ab2fdbb6e56833cccd46
+2009-07-27T03:28:44.337981Z
+86
+paul
+

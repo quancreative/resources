@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.powerflasher.fdt.ui.editor.template.as3" deleted="false" description="Iterator over an object" enabled="true" name="for">for (var  i in ${object}) &#13;
+{&#13;
+	trace(i  + " : " + ${object}[i]);&#13;
+	${cursor}&#13;
+}</template></templates>

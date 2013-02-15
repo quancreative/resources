@@ -1,0 +1,4 @@
+
+Auto activation delay: 20
+Auto activation triggers for AS: abcdefghijklmnopqrstuvwxyz_.:
+Auto activation triggers for JavaDoc: @

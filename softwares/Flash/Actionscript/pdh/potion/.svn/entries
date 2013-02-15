@@ -1,0 +1,41 @@
+8
+
+dir
+100
+svn://intranet.cortinaproductions.com/actionscript/trunk/pdh/potion
+svn://intranet.cortinaproductions.com/actionscript
+
+
+
+2009-02-13T04:33:31.311353Z
+37
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+PotionProxy.as
+file
+
+
+
+
+2009-09-21T13:46:51.000000Z
+d1195b57b3bd8514f011c76712c3fb79
+2009-02-13T04:33:31.311353Z
+37
+paul
+has-props
+

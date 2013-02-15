@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE archive SYSTEM "http://www.thamtech.com/dtds/usdc-archive.dtd">
+<archive>
+  <item id="printing-block" filename="printing-block-03.jpg">
+    <title><![CDATA[<strong>Printing block with Radio Free Europe logo</strong>, 1950-1970]]></title>
+    <description>
+      <![CDATA[
+      The iconic shape of the Freedom Bell appears on this Radio Free Europe
+      printer's block as the station's logo.
+      ]]>
+    </description>
+    
+    <asset-details>
+      <![CDATA[
+      Collections of the U.S. Diplomacy Center<br/>
+      (Photo by Alex Jamison)
+      ]]>
+    </asset-details>
+    
+    <exhibitions>
+      <exhibition ref="in-the-cold-war"/>
+    </exhibitions>
+    
+    <types>
+      <type ref="artifact"/>
+      <type ref="photograph"/>
+    </types>
+  </item>
+  
+  <item id="printing-block-2" filename="printing-block-04.jpg">
+    <title><![CDATA[<strong>Printing block 2 with Radio Free Europe logo</strong>, 1950-1970]]></title>
+    <description>
+      <![CDATA[
+      The iconic shape of the Freedom Bell appears on this Radio Free Europe
+      printer's block as the station's logo.
+      ]]>
+    </description>
+    
+    <asset-details>
+      <![CDATA[
+      Collections of the U.S. Diplomacy Center<br/>
+      (Photo by Alex Jamison)
+      ]]>
+    </asset-details>
+    
+    <exhibitions>
+      <exhibition ref="in-the-cold-war"/>
+      <exhibition ref="despite-wall"/>
+    </exhibitions>
+    
+    <types>
+      <type ref="artifact"/>
+    </types>
+  </item>
+  
+  
+  <item id="IMG001" filename="IMG001.jpg">
+<description>
+<![CDATA[
+Publication of the U.S. High Commissioner for Germany as a convenience for employees stationed in Germany.]]>
+</description>
+<asset-details>
+<![CDATA[
+Collections of the U.S. Diplomacy Center]]>
+</asset-details>
+<exhibitions>
+<exhibition ref="berlin-divided-and-isolated"/>
+</exhibitions>
+<types>
+<type ref="artifact"/>
+</types>
+</item>
+</archive>
