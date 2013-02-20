@@ -1,0 +1,23 @@
+It was a filesystem ACL. Here are the notes for that:
+
+File System ACLs.
+It is sometimes more convenient to have permissions more advanced than Owner, Group and World, and when dealing with Subversion and the SVN repository, it is a good idea to set user/group permissions with Access Control Lists (ACLs). This command:
+setfacl -R -m u:wwilson:rwx,d:u:wwilson:rwx /path/to/repos
+will set rwx permissions on files and , rwx permissions on directories, recursively, for all files under the repos folder in this example. If you get an error message “operation not supported” it will be necessary to add defaults,acl to /etc/fstab and to issue the command
+mount –o remount /
+to remount / after modifying fstab to enable filesystem ACLs.
+A similar command can be used on an entire group:
+setfacl -R -m d:g:mygroup:rwX,d:g:mygroup:rwX,d:m::rwX,m::rwX /path/to/whatever
+Steps to setup repo:
+/usr/sbin/groupadd subversion
+setfacl -R -m g:subversion:rwX,d:g:subversion:rwX,m::rwX,m::rwX /path
+setfacl -R -m g:subversion:rwX,g:subversion:rwX,m::rwX,m::rwX /path
+
+to allow members of the subversion group access through ACLs.
+
+This is a little more complex than the user-group-world permissions you get on standard unix/linux BUT it is much more roubust and flexible when working in a group environment. This setup should apply to git repos as well.
+
+Let me know if this doesn’t make sense. Also! Make sure your system administrator has enabled file system ACLs on the partition. It is described above but your system administrator should be aware.
+
+Thanks
+Wendell
