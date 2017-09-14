@@ -4,8 +4,8 @@
 		{ "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
 		{ "keys": ["ctrl+shift+f"], "command": "htmlprettify" },
 		{ "keys": ["ctrl+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
-		{ "keys": ["ctrl+alt+up"], "command": "swap_line_up" },
-		{ "keys": ["ctrl+alt+down"], "command": "swap_line_down" },
+		{ "keys": ["alt+up"], "command": "swap_line_up" },
+		{ "keys": ["alt+down"], "command": "swap_line_down" },
 		{ "keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "Packages/User/EndOfLine.sublime-macro"},
 	},
 ]
