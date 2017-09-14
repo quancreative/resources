@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"profile",
+	    "module",
+	    "inc",
+	    "install"
+	]
+}
