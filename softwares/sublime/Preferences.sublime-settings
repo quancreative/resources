@@ -1,0 +1,11 @@
+{
+	"font_size": 8,
+	"theme": "ayu-dark.sublime-theme",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"ui_fix_tab_labels": true,
+	"ui_sidebar_highlight_row": true,
+	"ui_separator":             true,
+	"ui_font_default":          true, // use Sublime Text's default UI font
+	"ui_font_source_code_pro":  true, // use [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) for UI
+
+}
